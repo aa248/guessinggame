@@ -1,3 +1,6 @@
+#Created by aa248
+#Last updated 6/14/2016
+
 import random
 
 
